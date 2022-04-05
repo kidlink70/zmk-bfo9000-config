@@ -26,12 +26,12 @@
 			// | Cntl | Cntl   | Win  | Alt   | ??? | Spc | Spc |		| Spc   | Spc    | [   | ]   | Left| Down| Right| 		
 			
 			bindings = <
-			&kp GRAVE   &kp GRAVE	 &kp N1	   &kp N2    &kp N3     &kp N4    &kp N5    		&kp N6    &kp N7    &kp N8    &kp N9      &kp N0    &kp MINUS	  &kp BSPC   		&kp F10   &kp F11   &kp F12   &kp DEL
-			&kp TAB     &kp TAB	 &kp Q     &kp W     &kp E      &kp R     &kp T   	 	&kp Y     &kp U     &kp I     &kp O       &kp P     &kp PLUS  	  &kp DEL  		 &kp N0    &kp MINUS &kp EQUAL &kp BSPC
-			&kp END     &kp END      &kp A     &kp S     &kp D      &kp F     &kp G    	 	&kp H     &kp J     &kp K     &kp L       &kp SEMI  &kp SQT   	  &kp ENTER   		 &kp P     &kp LBKT  &kp RBKT  &kp BSLH
-			&kp LSHIFT  &kp LSHIFT   &kp Z     &kp X     &kp C      &kp V     &kp B   	  	&kp N     &kp M     &kp COMMA &kp PERIOD  &kp SLASH &kp UP   	  &kp RSHIFT 		  &kp SEMI  &kp APOS  &kp ENTER &kp ENTER
-			&kp LCTRL   &kp LCTRL    &kp LWIN  &kp LALT  &kp SPACE  &kp SPACE &kp SPACE   	  	&kp SPACE &kp SPACE &kp LBKT   &kp RBKT	  &kp LEFT  &kp DOWN	  &kp RIGHT		 &kp SLASH &kp RSHFT &kp UP    &mo LOWER
-			&kp LEFT    &kp LEFT     &kp RIGHT &kp LCTRL &kp LALT   &kp LMETA &kp SPACE 		&kp SPACE &kp ENTER &kp BSPC   &kp SPACE   &kp SPACE &kp RMETA 	  &kp RALT		 &kp RCTRL &kp LEFT  &kp DOWN  &kp RIGHT
+			&kp GRAVE   &kp GRAVE	 &kp N1	   &kp N2    &kp N3     &kp N4    &kp N5    		&kp N6    &kp N7    &kp N8    &kp N9      &kp N0    &kp MINUS	  &kp BSPC   		
+			&kp TAB     &kp TAB	 &kp Q     &kp W     &kp E      &kp R     &kp T   	 	&kp Y     &kp U     &kp I     &kp O       &kp P     &kp PLUS  	  &kp DEL  		 
+			&kp END     &kp END      &kp A     &kp S     &kp D      &kp F     &kp G    	 	&kp H     &kp J     &kp K     &kp L       &kp SEMI  &kp SQT   	  &kp ENTER   		
+			&kp LSHIFT  &kp LSHIFT   &kp Z     &kp X     &kp C      &kp V     &kp B   	  	&kp N     &kp M     &kp COMMA &kp PERIOD  &kp SLASH &kp UP   	  &kp RSHIFT 		  
+			&kp LCTRL   &kp LCTRL    &kp LWIN  &kp LALT  &kp SPACE  &kp SPACE &kp SPACE   	  	&kp SPACE &kp SPACE &kp LBKT   &kp RBKT	  &kp LEFT  &kp DOWN	  &kp RIGHT		 
+			&kp LEFT    &kp LEFT     &kp RIGHT &kp LCTRL &kp LALT   &kp LMETA &kp SPACE 		&kp SPACE &kp ENTER &kp BSPC   &kp SPACE   &kp SPACE &kp RMETA 	  &kp RALT		
 			>;
 		};
 
